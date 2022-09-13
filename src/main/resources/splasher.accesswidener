@@ -1,0 +1,7 @@
+accessWidener	v1  named
+accessible    method    net/minecraft/client/render/GameRenderer    getFov    (Lnet/minecraft/client/render/Camera;FZ)D
+accessible    method    net/minecraft/client/render/GameRenderer    shouldRenderBlockOutline    ()Z
+accessible    field    net/minecraft/client/render/GameRenderer    viewDistance    F
+accessible    field    net/minecraft/client/world/ClientChunkManager    chunks    Lnet/minecraft/client/world/ClientChunkManager$ClientChunkMap;
+accessible    method    net/minecraft/client/world/ClientChunkManager$ClientChunkMap    set    (ILnet/minecraft/world/chunk/WorldChunk;)V
+accessible    method    net/minecraft/client/world/ClientChunkManager$ClientChunkMap    getIndex    (II)I
